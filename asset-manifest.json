@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HeyChat/static/css/main.56e1a22a.css",
+    "main.js": "/HeyChat/static/js/main.c1639b8c.js",
+    "static/js/453.b5182336.chunk.js": "/HeyChat/static/js/453.b5182336.chunk.js",
+    "index.html": "/HeyChat/index.html",
+    "main.56e1a22a.css.map": "/HeyChat/static/css/main.56e1a22a.css.map",
+    "main.c1639b8c.js.map": "/HeyChat/static/js/main.c1639b8c.js.map",
+    "453.b5182336.chunk.js.map": "/HeyChat/static/js/453.b5182336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e1a22a.css",
+    "static/js/main.c1639b8c.js"
+  ]
+}
