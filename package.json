@@ -1,6 +1,5 @@
 {
   "name": "heychat",
-  "homepage": "https://Varun-dev7.github.io/react-heychat",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://heychat.runasp.net/chat",
