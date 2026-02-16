@@ -13,7 +13,7 @@ const App = () => {
   const joinroom = async (user, room) => {
     try {
       const connection = new HubConnectionBuilder()
-        .withUrl("http://heychat.runasp.net/chat")
+        .withUrl("https://hey-chat-proxy.vercel.app/")
         .configureLogging(LogLevel.Information)
         .build();
 
