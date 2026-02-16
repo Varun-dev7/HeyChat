@@ -13,7 +13,7 @@ const App = () => {
   const joinroom = async (user, room) => {
     try {
       const connection = new HubConnectionBuilder()
-        .withUrl("http://heychat.runasp.net/chat")
+        .withUrl("/api/chat")
         .configureLogging(LogLevel.Information)
         .build();
 
